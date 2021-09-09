@@ -1,3 +1,5 @@
+![w2](https://user-images.githubusercontent.com/41311815/132604177-0d0091cf-27b9-4ff3-9f38-33dd37d97381.jpg)
+a screenshot of the proposed system
 # garbage-system
 This Garbage Collection Management System is a web-based software that was written using PHP, 
 MySQL Database, HTML, CSS, JavaScript, Bootstrap, and some other plugins/libraries. 
